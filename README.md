@@ -6,10 +6,21 @@
 - 🎁 Первые **15 дней — пробный период**: проверь всё сам на своём телефоне
 - 💳 Дальше — СБП и карта **от 90 ₽**
 - 🛟 Поддержка на русском — помогут с полного нуля
+- 👥 Приведи друга — **+3 дня** за его первую оплату (ссылка в Профиле мини-апа)
 - 🔒 Протоколы: **VLESS + Reality (XHTTP/TLS)**, **Hysteria2**, 
 - 📱 Клиенты: Happ (iPhone, Android, Windows, macOS, Linux), v2rayNG, sing-box, Hiddify, Shadowrocket — подписка в формате JSON, URI-ссылки и sing-box
 
 Не зайдёт на пробе — просто не продлеваешь. Всё честно.
+
+## Официальные ресурсы
+
+- 🤖 Бот: [@IsoraVPN_bot](https://t.me/IsoraVPN_bot) — подписка, оплата, проба
+- 📢 Канал: [@Isora_Official](https://t.me/Isora_Official) — новости и статус
+- 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
+- 🌐 Сайт: [isora-site.duckdns.org](https://isora-site.duckdns.org/)
+- 📱 Приложение и исходники: [ralmi-sys/isora](https://github.com/ralmi-sys/isora) (Android APK + код)
+
+Остальное с похожим названием — не мы. Сверяйся с этим списком.
 
 ## Подписка и anti-censorship
 
@@ -55,4 +66,5 @@
 
 - 🤖 Бот: [@IsoraVPN_bot](https://t.me/IsoraVPN_bot)
 - 📢 Канал: [@Isora_Official](https://t.me/Isora_Official)
+- 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
 - 🌐 Сайт: [isora-site.duckdns.org](https://isora-site.duckdns.org/)

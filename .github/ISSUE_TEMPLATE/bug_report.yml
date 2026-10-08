@@ -1,0 +1,54 @@
+---
+name: "🐞 Не работает"
+description: "VPN подключён, а толку нет — или не подключается вовсе"
+title: "[баг]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: "Что случилось"
+      description: "Одним-двумя предложениями: что делал, что ожидал, что вышло"
+      placeholder: "Включил Автовыбор, YouTube крутится, остальное открывается"
+    validations:
+      required: true
+  - type: dropdown
+    id: client
+    attributes:
+      label: "Клиент"
+      options:
+        - "Happ iOS"
+        - "Happ Android"
+        - "Happ Windows"
+        - "Happ macOS"
+        - "Happ Linux"
+        - "v2rayNG"
+        - "Shadowrocket"
+        - "sing-box / Hiddify"
+        - "Другое (напиши ниже)"
+    validations:
+      required: true
+  - type: input
+    id: server
+    attributes:
+      label: "Сервер"
+      description: "Какая строка подписки: Автовыбор, Умная, страна"
+      placeholder: "Автовыбор"
+    validations:
+      required: false
+  - type: input
+    id: isp
+    attributes:
+      label: "Провайдер и регион"
+      description: "Мобильный или домашний, какой оператор, какой город"
+      placeholder: "Билайн моб., Грозный"
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Дополнительно"
+      description: "Пинг в приложении, время суток, скрины, что уже пробовал"
+    validations:
+      required: false
+---
