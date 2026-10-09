@@ -68,3 +68,4 @@
 - 📢 Канал: [@Isora_Official](https://t.me/Isora_Official)
 - 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
 - 🌐 Сайт: [isora-site.duckdns.org](https://isora-site.duckdns.org/)
+- 🎬 Смотреть вместе: [ISORA WATCH](https://github.com/ralmi-sys/isora-watch) — совместный просмотр видео с друзьями
