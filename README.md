@@ -69,3 +69,15 @@
 - 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
 - 🌐 Сайт: [isora-site.duckdns.org](https://isora-site.duckdns.org/)
 - 🎬 Смотреть вместе: [ISORA WATCH](https://github.com/ralmi-sys/isora-watch) — совместный просмотр видео с друзьями
+
+
+## 🐧 Официальный клиент для Linux (Ubuntu, Debian, Linux Mint)
+
+Для настольных компьютеров и ноутбуков доступно нативное приложение **ISORA Linux** с поддержкой автовыбора серверов, безопасного режима и обновлений по воздуху.
+
+### Скачать:
+- **Прямая ссылка:** [isora-vpn_1.0.0_amd64.deb](https://github.com/ralmi-sys/isora-vpn/releases/latest/download/isora-vpn_1.0.0_amd64.deb)
+- **Установка в терминале:**
+```bash
+curl -fsSL https://isora.duckdns.org:8443/api/download/linux -o isora-vpn.deb && sudo apt install -y ./isora-vpn.deb && rm isora-vpn.deb
+```
