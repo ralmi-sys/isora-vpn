@@ -17,7 +17,7 @@
 - 🤖 Бот: [@IsoraVPN_bot](https://t.me/IsoraVPN_bot) — подписка, оплата, проба
 - 📢 Канал: [@Isora_Official](https://t.me/Isora_Official) — новости и статус
 - 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
-- 🌐 Сайт: [isora-site.duckdns.org](https://isora-vpn.online/)
+- 🌐 Сайт: [isora-vpn.online](https://isora-vpn.online/)
 
 Остальное с похожим названием — не мы. Сверяйся с этим списком.
 
@@ -33,7 +33,7 @@
 2. Жми `/start` → **«🎁 Забрать пробный период»**
 3. Забирай ссылку → вставь в Happ → подключайся
 
-Подробнее с картинками и QR: [сайт ISORA VPN]([https://isora-vpn.online/])
+Подробнее с картинками и QR: [сайт ISORA VPN](https://isora-vpn.online/)
 
 ## Тарифы
 
@@ -66,7 +66,7 @@
 - 🤖 Бот: [@IsoraVPN_bot](https://t.me/IsoraVPN_bot)
 - 📢 Канал: [@Isora_Official](https://t.me/Isora_Official)
 - 🛟 Поддержка: [@IsoraSupport_bot](https://t.me/IsoraSupport_bot)
-- 🌐 Сайт: [isora-site.duckdns.org](https://isora-vpn.online/)
+- 🌐 Сайт: [isora-vpn.online](https://isora-vpn.online/)
 - 🎬 Смотреть вместе: [ISORA WATCH](https://github.com/ralmi-sys/isora-watch) — совместный просмотр видео с друзьями
 
 ## Загрузка приложения
