@@ -7,8 +7,8 @@
 - 💳 Дальше — СБП и карта **от 90 ₽**
 - 🛟 Поддержка на русском — помогут с полного нуля
 - 👥 Приведи друга — **+3 дня** за его первую оплату (ссылка в Профиле мини-апа)
-- 🔒 Протоколы: **VLESS + Reality (XHTTP/TLS)**, **Hysteria2**, 
-- 📱 Клиенты: Happ (iPhone, Android, Windows, macOS, Linux), v2rayNG, sing-box, Hiddify, Shadowrocket — подписка в формате JSON, URI-ссылки и sing-box
+- 🔒 Протоколы: **VLESS + Reality (XHTTP/TLS)**, **Hysteria2**
+- 📱 Клиенты: **Нативное приложение ISORA для Linux (.deb)**, Happ (iOS, Android, Windows, macOS), v2rayNG, sing-box, Hiddify, Shadowrocket — подписка в формате JSON, URI-ссылки и sing-box
 
 Не зайдёт на пробе — просто не продлеваешь. Всё честно.
 
@@ -73,7 +73,7 @@
 
 | iOS | Android | Desktop |
 | :--- | :--- | :--- |
-| *Скоро* | *Скоро* | 🐧 [Linux-x64 (.deb)](https://github.com/ralmi-sys/isora-vpn/releases/latest/download/isora-vpn_1.0.0_amd64.deb) / [mirror](https://isora.duckdns.org:8443/api/download/linux) |
+| *Скоро* | *Скоро* | 🐧 [Linux-x64 (.deb v1.0.2)](https://github.com/ralmi-sys/isora-vpn/releases/latest/download/isora-vpn_1.0.2_amd64.deb) / [mirror](https://isora.duckdns.org:8443/api/download/linux) |
 | | | Windows-x64 *(в разработке)* |
 | | | macOS (arm64 / intel) *(в разработке)* |
 
