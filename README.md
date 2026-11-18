@@ -10,6 +10,7 @@ Dual VLESS Reality · XHTTP · Hysteria2
 [![Сайт](https://img.shields.io/badge/сайт-isora--vpn.online-0A84FF?style=flat-square)](https://isora-vpn.online/)
 [![Telegram](https://img.shields.io/badge/Telegram-@IsoraVPN__bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IsoraVPN_bot)
 [![Linux](https://img.shields.io/github/v/release/ralmi-sys/isora-vpn?display_name=tag&label=Linux&color=30D158&style=flat-square)](https://github.com/ralmi-sys/isora-vpn/releases/latest)
+[![TgBotList](https://img.shields.io/badge/TgBotList-5.0-6C5CE7?style=flat-square)](https://telegram-bot-list.com/ru/bots/IsoraVPN-bot)
 
 </div>
 
