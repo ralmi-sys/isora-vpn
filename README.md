@@ -9,7 +9,7 @@ Dual VLESS Reality · XHTTP · Hysteria2
 
 [![Сайт](https://img.shields.io/badge/сайт-isora--vpn.online-0A84FF?style=flat-square)](https://isora-vpn.online/)
 [![Telegram](https://img.shields.io/badge/Telegram-@IsoraVPN__bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IsoraVPN_bot)
-[![Linux](https://img.shields.io/github/v/release/ralmi-sys/isora-vpn?display_name=tag&label=Linux&color=30D158&style=flat-square)](https://github.com/ralmi-sys/isora-vpn/releases/latest)
+[![Релизы](https://img.shields.io/github/v/release/ralmi-sys/isora-vpn?display_name=tag&label=релиз&color=30D158&style=flat-square)](https://github.com/ralmi-sys/isora-vpn/releases/latest)
 [![TgBotList](https://img.shields.io/badge/TgBotList-5.0-6C5CE7?style=flat-square)](https://telegram-bot-list.com/ru/bots/IsoraVPN-bot)
 
 </div>
@@ -56,7 +56,7 @@ Dual VLESS Reality · XHTTP · Hysteria2
 
 1. Открой бота [@IsoraVPN_bot](https://t.me/IsoraVPN_bot) и нажми «Получить пробный период».
 2. Скопируй ссылку подписки.
-3. Вставь её в клиент — и всё.
+3. Вставь её в Happ, sing-box или v2rayN — и всё. На Windows и Linux проще скачать наш клиент и войти через Telegram: вставлять ничего не нужно.
 
 Инструкции по шагам для каждой платформы: [isora-vpn.online](https://isora-vpn.online/#app).
 
@@ -64,12 +64,23 @@ Dual VLESS Reality · XHTTP · Hysteria2
 
 | Платформа | Приложение | Статус |
 |---|---|---|
+| **Windows 10 / 11** | Наш клиент ISORA (.exe) | Готов, версия 1.0.6 |
 | **Linux** | Наш клиент ISORA (.deb) | Готов, версия 1.0.3 |
 | **iOS / iPadOS** | Happ | Работает |
 | **Android** | Happ, v2rayNG, sing-box | Работает |
-| **Windows / macOS** | Happ Desktop, sing-box | Работает |
+| **macOS** | Happ Desktop, sing-box | Работает |
 
 Нативное приложение для Android в разработке — публичного релиза пока нет. Как только будет готово, появится здесь.
+
+### Windows
+
+Скачай установщик со [страницы релизов](https://github.com/ralmi-sys/isora-vpn/releases/latest) — файл `ISORA-VPN-Setup-<версия>.exe`.
+
+1. Запусти установщик. Файлы пока без цифровой подписи, поэтому SmartScreen может предупредить: «Подробнее» → «Выполнить всё равно».
+2. Открой ISORA и нажми «Войти через Telegram» — бот подтвердит вход, подписка и узлы подтянутся сами. Без Telegram доступен гостевой тест на 15 дней.
+3. На главной выбери страну и нажми «Подключиться».
+
+Банки, Госуслуги и маркетплейсы идут напрямую — маршрутизация уже настроена. Новые версии приложение скачивает и ставит само.
 
 ### Linux
 
@@ -104,6 +115,6 @@ sudo apt install -y ./isora-vpn.deb
 
 ## О репозитории
 
-Здесь живут релизы Linux-клиента, документация и шаблоны для обращений. Исходники клиентов и серверной части — приватные.
+Здесь живут релизы клиентов для Windows и Linux, документация и шаблоны для обращений. Исходники клиентов и серверной части — приватные.
 
 Нашли ошибку — [создай issue](https://github.com/ralmi-sys/isora-vpn/issues/new/choose). Отвечаем по делу.
