@@ -64,7 +64,7 @@ Dual VLESS Reality · XHTTP · Hysteria2
 
 | Платформа | Приложение | Статус |
 |---|---|---|
-| **Windows 10 / 11** | Наш клиент ISORA (.exe) | Готов, версия 1.0.22 |
+| **Windows 10 / 11** | Наш клиент ISORA (.exe) | Готов, версия 1.0.23 |
 | **Linux** | Наш клиент ISORA (.deb) | Готов, версия 1.0.3 |
 | **iOS / iPadOS** | Happ | Работает |
 | **Android** | Happ, v2rayNG, sing-box | Работает |
